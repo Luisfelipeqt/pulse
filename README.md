@@ -26,7 +26,7 @@ This project is a Spring Boot application that provides APIs for user registrati
 
 ```bash
 git clone https://github.com/Luisfelipeqt/pulse
-cd pulse
+cd rest-api && cd app
 ```
 
 ### Build the Project
